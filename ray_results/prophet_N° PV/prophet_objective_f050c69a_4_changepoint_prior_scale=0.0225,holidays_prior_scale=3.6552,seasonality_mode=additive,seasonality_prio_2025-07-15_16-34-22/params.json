@@ -1,0 +1,6 @@
+{
+  "changepoint_prior_scale": 0.022546278349474244,
+  "holidays_prior_scale": 3.655185375854141,
+  "seasonality_mode": "additive",
+  "seasonality_prior_scale": 18.348035823052957
+}

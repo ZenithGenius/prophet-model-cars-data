@@ -1,0 +1,2 @@
+mape,mape_std,timestamp,checkpoint_dir_name,done,training_iteration,trial_id,date,time_this_iter_s,time_total_s,pid,hostname,node_ip,time_since_restore,iterations_since_restore
+0.0444678481214679,0.013179146976557966,1752592196,,False,1,8d996452,2025-07-15_16-09-56,1.1018853187561035,1.1018853187561035,299076,genius,192.168.1.88,1.1018853187561035,1
